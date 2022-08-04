@@ -57,7 +57,7 @@
     "sb-promise-queue": "^2.1.0",
     "sb-scandir": "^3.1.0",
     "shell-escape": "^0.2.0",
-    "ssh2": "^1.5.0"
+    "ssh2": "https://github.com/dneprpi/ssh2.git"
   },
   "ava": {
     "files": [
